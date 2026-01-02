@@ -1,3 +1,4 @@
 # deepak-demo
-Author-deepak kumar
+This is my first git Repository
+author - Deepak kumar
 
